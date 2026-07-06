@@ -5,6 +5,7 @@ A beginner bioinformatics project written in Python.
 ## Current Features
 
 - DNA → RNA transcription
+- DNA sequence validation
 
 ## Planned Features
 
